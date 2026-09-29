@@ -1,16 +1,29 @@
-## Hi there 👋
-
-<!--
-**Aldair99-hub/Aldair99-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hola, soy Darling Aldair Hinostroza Davila 👋
+ 
+📊 Analista de Datos en formación con experiencia en gestión y control de proyectos de infraestructura.
+ 
+Actualmente desarrollo proyectos de análisis de datos utilizando Power BI, Excel, SQL y Python, enfocados en la generación de indicadores, automatización de reportes y creación de dashboards para la toma de decisiones.
+ 
+## Herramientas
+- Power BI
+- DAX
+- Power Query
+- Excel
+- SQL
+- Python
+- Git y GitHub
+ 
+## Intereses
+- Análisis de datos
+- Business Intelligence (BI)
+- Visualización de datos
+- Automatización de procesos
+- Gestión de proyectos
+ 
+## Proyectos Destacados
+- Dashboard de Rendimiento de Asistentes
+- Control de Costos y Valorizaciones
+- Indicadores de Productividad
+- Automatización de Reportes
+ 
+📍 Lima, Perú
